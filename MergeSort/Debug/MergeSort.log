@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/4/6 23:04:36。
+     1>项目“E:\code\c++\HomeWork\MergeSort\MergeSort\MergeSort.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MergeSort.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MergeSort.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MergeSort.cpp
+         MergeSort.cpp
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\code\c++\HomeWork\MergeSort\Debug\MergeSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\code\c++\HomeWork\MergeSort\Debug\MergeSort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\code\c++\HomeWork\MergeSort\Debug\MergeSort.lib" /MACHINE:X86 Debug\MergeSort.obj
+         Debug\stdafx.obj
+         MergeSort.vcxproj -> E:\code\c++\HomeWork\MergeSort\Debug\MergeSort.exe
+     1>已完成生成项目“E:\code\c++\HomeWork\MergeSort\MergeSort\MergeSort.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.87
